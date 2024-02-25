@@ -50,15 +50,15 @@ This is a simple online voting system implemented using Python for the GUI, PHP 
 
 ## Screenshots
 
-[Insert screenshots here if available]
+![image](https://github.com/adhimiw/Onlinevotingsytem-PHP-PY/assets/121428949/b0a21be1-f5ed-4233-b57a-3525adeba238)
+![image](https://github.com/adhimiw/Onlinevotingsytem-PHP-PY/assets/121428949/10e50d3f-169f-4a45-8f2f-1d56bcfc0b50)
+
 
 ## License
 
 [Choose an appropriate license for your project. For example, MIT License]
 
-## Acknowledgements
 
-[Include acknowledgements if any]
 
 ```
 
