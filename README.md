@@ -56,7 +56,7 @@ This is a simple online voting system implemented using Python for the GUI, PHP 
 
 ## License
 
-[Choose an appropriate license for your project. For example, MIT License]
+GPL-3.0 license
 
 
 
