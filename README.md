@@ -24,6 +24,29 @@ This is a simple online voting system implemented using Python for the GUI, PHP 
 
 1. Clone the repository:
    ```bash
+  # Online Voting System
+
+This is a simple online voting system implemented using Python for the GUI, PHP for server-side processing, and MySQL for database management.
+
+## Features
+
+- Admin authentication
+- Voter registration
+- Viewing voter details
+- Removing voters
+- Vote counting
+- Voting interface for users
+
+## Prerequisites
+
+- Python 3
+- PHP
+- MySQL
+
+## Setup
+
+1. Clone the repository:
+   ```bash
    git clone https://github.com/adhimiw/online-voting-system.git
    ```
 
