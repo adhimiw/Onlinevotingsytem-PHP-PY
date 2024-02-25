@@ -24,7 +24,7 @@ This is a simple online voting system implemented using Python for the GUI, PHP 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/online-voting-system.git
+   git clone https://github.com/adhimiw/online-voting-system.git
    ```
 
 2. Import the MySQL database:
